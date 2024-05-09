@@ -1,0 +1,14 @@
+D:\csy2024\C#\Blnheritance\bin\Debug\net8.0\Blnheritance.exe
+D:\csy2024\C#\Blnheritance\bin\Debug\net8.0\Blnheritance.deps.json
+D:\csy2024\C#\Blnheritance\bin\Debug\net8.0\Blnheritance.runtimeconfig.json
+D:\csy2024\C#\Blnheritance\bin\Debug\net8.0\Blnheritance.dll
+D:\csy2024\C#\Blnheritance\bin\Debug\net8.0\Blnheritance.pdb
+D:\csy2024\C#\Blnheritance\obj\Debug\net8.0\Blnheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\csy2024\C#\Blnheritance\obj\Debug\net8.0\Blnheritance.AssemblyInfoInputs.cache
+D:\csy2024\C#\Blnheritance\obj\Debug\net8.0\Blnheritance.AssemblyInfo.cs
+D:\csy2024\C#\Blnheritance\obj\Debug\net8.0\Blnheritance.csproj.CoreCompileInputs.cache
+D:\csy2024\C#\Blnheritance\obj\Debug\net8.0\Blnheritance.dll
+D:\csy2024\C#\Blnheritance\obj\Debug\net8.0\refint\Blnheritance.dll
+D:\csy2024\C#\Blnheritance\obj\Debug\net8.0\Blnheritance.pdb
+D:\csy2024\C#\Blnheritance\obj\Debug\net8.0\Blnheritance.genruntimeconfig.cache
+D:\csy2024\C#\Blnheritance\obj\Debug\net8.0\ref\Blnheritance.dll
