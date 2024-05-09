@@ -1,0 +1,14 @@
+D:\csy2024\C#\Training_Chap07_1\bin\Debug\net8.0\Training_Chap07_1.exe
+D:\csy2024\C#\Training_Chap07_1\bin\Debug\net8.0\Training_Chap07_1.deps.json
+D:\csy2024\C#\Training_Chap07_1\bin\Debug\net8.0\Training_Chap07_1.runtimeconfig.json
+D:\csy2024\C#\Training_Chap07_1\bin\Debug\net8.0\Training_Chap07_1.dll
+D:\csy2024\C#\Training_Chap07_1\bin\Debug\net8.0\Training_Chap07_1.pdb
+D:\csy2024\C#\Training_Chap07_1\obj\Debug\net8.0\Training_Chap07_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\csy2024\C#\Training_Chap07_1\obj\Debug\net8.0\Training_Chap07_1.AssemblyInfoInputs.cache
+D:\csy2024\C#\Training_Chap07_1\obj\Debug\net8.0\Training_Chap07_1.AssemblyInfo.cs
+D:\csy2024\C#\Training_Chap07_1\obj\Debug\net8.0\Training_Chap07_1.csproj.CoreCompileInputs.cache
+D:\csy2024\C#\Training_Chap07_1\obj\Debug\net8.0\Training_Chap07_1.dll
+D:\csy2024\C#\Training_Chap07_1\obj\Debug\net8.0\refint\Training_Chap07_1.dll
+D:\csy2024\C#\Training_Chap07_1\obj\Debug\net8.0\Training_Chap07_1.pdb
+D:\csy2024\C#\Training_Chap07_1\obj\Debug\net8.0\Training_Chap07_1.genruntimeconfig.cache
+D:\csy2024\C#\Training_Chap07_1\obj\Debug\net8.0\ref\Training_Chap07_1.dll
