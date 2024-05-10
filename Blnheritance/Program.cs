@@ -37,6 +37,20 @@ internal class Program
             if (item is Cat) { ((Cat)item).Meow(); }
         }
         
+        Console.WriteLine("\n\nas키워드로 자료형 변환");
+
+        List<Animal> animals2 = new List<Animal>() { new Dog(), new Cat(), new Dog(), new Cat() };
         
+        foreach (var item in animals2)
+        {
+            item.Eat();
+            item.Sleep();
+        
+            var dog = item as Dog;
+            if (dog != null) { dog.Bark(); }
+        
+            var cat = item as Cat;
+            if (cat != null) { cat.Meow(); }
+        }
     }
 }
